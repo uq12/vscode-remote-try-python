@@ -1,2 +1,10 @@
 flask
 requests
+setuptools 
+wheel 
+yapf 
+autoflake 
+isort 
+coverage 
+pylint 
+rich 
